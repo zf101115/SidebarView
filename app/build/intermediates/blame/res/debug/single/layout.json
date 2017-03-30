@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_main.xml",
+        "source": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\layout\\item_listview_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_main.xml",
+        "source": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\layout\\item_listview_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

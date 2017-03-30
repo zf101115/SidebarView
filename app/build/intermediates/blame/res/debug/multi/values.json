@@ -1,0 +1,310 @@
+[
+    {
+        "outputFile": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 34,
+                    "endColumn": 19,
+                    "endOffset": 881
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 35,
+                        "endColumn": 19,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 886,
+                    "endLine": 79,
+                    "endColumn": 19,
+                    "endOffset": 4436
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endLine": 81,
+                        "endColumn": 19,
+                        "endOffset": 4523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4441,
+                    "endColumn": 57,
+                    "endOffset": 4494
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4499,
+                    "endColumn": 55,
+                    "endOffset": 4550
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4555,
+                    "endColumn": 52,
+                    "endOffset": 4603
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4608,
+                    "endColumn": 48,
+                    "endOffset": 4652
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4657,
+                    "endColumn": 52,
+                    "endOffset": 4705
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4710,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 4996
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5001,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 5156
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\SidebarView\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 46,
+                    "endColumn": 19,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endLine": 91,
+                    "endColumn": 19,
+                    "endOffset": 4736
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4741,
+                    "endColumn": 57,
+                    "endOffset": 4794
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4799,
+                    "endColumn": 55,
+                    "endOffset": 4850
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4855,
+                    "endColumn": 52,
+                    "endOffset": 4903
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4908,
+                    "endColumn": 48,
+                    "endOffset": 4952
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4957,
+                    "endColumn": 52,
+                    "endOffset": 5005
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5010,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 5088
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5093,
+                    "endLine": 102,
+                    "endColumn": 12,
+                    "endOffset": 5160
+                },
+                "from": {
+                    "file": "C:\\Users\\zx\\Desktop\\demo\\Android32_CustomContactsSidebarView1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

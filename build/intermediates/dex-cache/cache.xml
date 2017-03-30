@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zx\Desktop\demo\SidebarView\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\Users\zx\Desktop\demo\SidebarView\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_5e131d3492a2f4a3cdbbdc1b53d1f1f80d92be8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zx\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\zx\Desktop\demo\SidebarView\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_dd96296e121709eba876897881f19d9e155f6740.jar" />
+    </item>
+
+</items>
